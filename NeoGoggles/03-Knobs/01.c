@@ -15,4 +15,5 @@ void loop(void) {
       frameBuffer[i + 1] = 0;
       frameBuffer[i + 2] = 0;
     }
+  }
 }
